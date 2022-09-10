@@ -2,33 +2,37 @@ Usage
 =====
 
 .. _installation:
+.. _step-by-step walkthrough:
 
-Installation
+General information
 ------------
 
-To use Lumache, first install it using pip:
+On this screen, you can find several topics:
 
-.. code-block:: console
+How do I log in?
+----------------
+Explanation
 
-   (.venv) $ pip install lumache
+How do I create a new patient record?
+----------------
+Explanation
 
-Creating recipes
+How do I find a new patient ...?
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+*...who is visiting today?*
+Explanation
 
-.. autofunction:: lumache.get_random_ingredients
+*... who will visit another day?*
+Explanation
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+How do I create a new patient visit ...?
+----------------
 
-.. autoexception:: lumache.InvalidKindError
+*... for the first visit?*
+Explanation
 
-For example:
+*... for a subsequent visit?*
+Explanation
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
