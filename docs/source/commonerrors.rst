@@ -6,10 +6,12 @@ Common errors
 Best practices
 ------------
 
-<unique patient ID> 
+** unique patient ID** 
+
 link
 
-<back button> 
+** back button** 
+
 link
 
 
