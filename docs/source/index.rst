@@ -1,12 +1,7 @@
 Welcome to the PCN user manual!
 ===================================
 
-**PCN** (/lu'make/) (Ponseti Clubfoot Navigator) is a clinical decision support platform for Ponseti clubfoot treatment. On this site you can find information about PCN. 
-
-Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**PCN** (Ponseti Clubfoot Navigator) is a clinical decision support platform for Ponseti clubfoot treatment. On this site you can find information about PCN. 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
