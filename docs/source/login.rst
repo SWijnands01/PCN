@@ -9,3 +9,5 @@ How do I log in?
 4.	Click the “Login” button
 
 PCN/docs/source/Log in - 1.JPG
+
+![alt text](https://github.com/SWijnands01/PCN/docs/source/Log in - 1.jpg?raw=true)
