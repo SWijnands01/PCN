@@ -4,6 +4,9 @@ Step-by-step walkthrough
 .. _installation:
 .. _step-by-step walkthrough:
 
+
+  - :doc:`login` 
+
 General information
 ------------
 
