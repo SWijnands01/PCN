@@ -1,7 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to the PCN user manual!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**PCN** (/lu'make/) (Ponseti Clubfoot Navigator) is a clinical decision support platform for Ponseti clubfoot treatment. On this site you can find information about PCN. 
+
+Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
