@@ -1,4 +1,4 @@
-Usage
+Step-by-step walkthrough
 =====
 
 .. _installation:
