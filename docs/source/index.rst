@@ -22,4 +22,5 @@ Contents
 .. toctree::
 
    stepbystepwalkthrough
+   layoutscreens
    api
