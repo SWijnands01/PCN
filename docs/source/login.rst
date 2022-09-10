@@ -8,3 +8,4 @@ How do I log in?
       Sidenote: selecting the right clinic is important, as the logistics per clinic are different and thereby affect the algorithm behind the app!
 4.	Click the “Login” button
 
+PCN/docs/source/Log in - 1.JPG
