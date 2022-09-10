@@ -11,3 +11,5 @@ How do I log in?
 ![](https://github.com/SWijnands01/PCN/blob/main/docs/source/Log%20in%20-%201.JPG?raw=true)
 write some text
 
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="/docs/source/Log%20in%20-@201.jpg" alt="Alt text" title="Optional title">
