@@ -8,8 +8,5 @@ How do I log in?
       Sidenote: selecting the right clinic is important, as the logistics per clinic are different and thereby affect the algorithm behind the app!
 4.	Click the “Login” button
 
-![](https://github.com/SWijnands01/PCN/blob/main/docs/source/Log%20in%20-%201.JPG?raw=true)
-write some text
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
-<img src="/docs/source/Log%20in%20-@201.jpg" alt="Alt text" title="Optional title">
+(https://github.com/SWijnands01/PCN/blob/main/docs/source/Log%20in%20-%201.JPG?raw=true)
