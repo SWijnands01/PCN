@@ -8,9 +8,5 @@ General information
 
 On this screen, you can find several topics:
 
-.. _patientrecord
-
-Patient record
-----------------
-Explanation
-
+   - :doc:`ObservationScreen` 
+   - :doc:`PatientHistoryScreen` 
