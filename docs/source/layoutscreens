@@ -8,5 +8,5 @@ General information
 
 On this screen, you can find several topics:
 
-   - :doc:`ObservationScreen` 
-   - :doc:`PatientHistoryScreen` 
+   - :doc:`screens/ObservationScreen` 
+   - :doc:`screens/PatientHistoryScreen` 
