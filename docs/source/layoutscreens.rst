@@ -10,3 +10,12 @@ There are several screens that you might be interested in:
 
    - :doc:`screens/ObservationScreen` 
    - :doc:`screens/PatientHistoryScreen` 
+   
+   
+Contents
+--------
+
+.. toctree::
+
+   ObservationScreen
+   PatientHistoryScreen
