@@ -11,6 +11,4 @@ How do I log in?
 
 !(https://github.com/SWijnands01/PCN/blob/main/docs/source/Log%20in%20-%201.JPG?raw=true)
 
-!(LogIn1.jpg)
 
-!(docs/source/LogIn1.jpg)
