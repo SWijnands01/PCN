@@ -19,4 +19,13 @@ Check out the following chapters for more information:
 Contents
 --------
 
+
 .. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Layout Screens
+
+   General Exam <GeneralExamScreen>
+   Clubfoot Exam <ClubfootExamScreen>
+   General History <GeneralHistoryScreen>
+   Clubfoot History <ClubfootHistoryScreen>
