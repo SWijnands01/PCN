@@ -6,17 +6,16 @@ Welcome to the PCN user manual!
 To go to PCN, use the following link: https://pcnred.herokuapp.com/clft/
 
 Check out the following chapters for more information:
-   - :doc:`stepbystepwalkthrough` 
    - :doc:`layoutscreens` 
    - :doc:`commonerrors`
-
+   - :doc:`demos` 
 
 Contents
 --------
 
 .. toctree::
 
-   stepbystepwalkthrough
    layoutscreens
    commonerrors
+   demos
    api
