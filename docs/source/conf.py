@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PCN'
+copyright = '2022, SWijnands'
+author = 'SWijnands'
 
 release = '0.1'
 version = '0.1.0'
@@ -30,6 +30,15 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+ html_theme_options = {
+    'logo_only': False,
+    'vcs_pageview_mode': '',
+    'style_nav_header_background': 'white',
+    # Toc options
+    'sticky_navigation': True,
+
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
