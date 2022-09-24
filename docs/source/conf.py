@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'relbarbgcolor': 'red'
-} 
+}
 
 html_context = {
   'display_github': True,
