@@ -12,11 +12,3 @@ There are several screens that you might be interested in:
    - :doc:`PatientHistoryScreen` 
    
    
-
-Contents
---------
-
-.. toctree::
-
-   ObservationScreen
-   PatientHistoryScreen
