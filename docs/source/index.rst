@@ -7,6 +7,12 @@ To go to PCN, use the following link: https://pcnred.herokuapp.com/clft/
 
 Check out the following chapters for more information:
    - :doc:`layoutscreens` 
+   
+      - :doc:`GeneralExamScreen`
+      - :doc:`ClubfootExamScreen`
+      - :doc:`GeneralHistoryScreen`
+      - :doc:`ClubfootHistoryScreen`
+      
    - :doc:`commonerrors`
 
 
@@ -14,8 +20,3 @@ Contents
 --------
 
 .. toctree::
-
-   stepbystepwalkthrough
-   layoutscreens
-   commonerrors
-   api
