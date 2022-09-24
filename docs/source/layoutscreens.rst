@@ -11,6 +11,8 @@ There are several screens that you might be interested in:
    - :doc:`ObservationScreen` 
    - :doc:`GeneralHistoryScreen` 
    - :doc:`ClubfootHistoryScreen` 
+   - :doc:`GeneralExamScreen` 
+   - :doc:`ClubfootExamScreen` 
    
    
    
