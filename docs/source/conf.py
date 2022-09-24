@@ -34,6 +34,7 @@ templates_path = ['_templates']
 html_theme_options = {
     "rightsidebar": "true",
     "relbarbgcolor": "red"
+    "style_nav_header_background": #DC3546
 } 
 
 html_context = {
