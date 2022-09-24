@@ -43,4 +43,4 @@ html_context = {
 }
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+epub_show_urls = 'footnote' 
