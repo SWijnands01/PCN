@@ -36,5 +36,7 @@ Otherwise, you have two options:
     .. image:: images/Observations_4.JPG
       :scale: 80 %
 
+
+Make sure that you fill in the observations for both feet, and then click on the “Save” button. 
    
  
