@@ -29,11 +29,10 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
-    "rightsidebar": "true",
-    "relbarbgcolor": "red"
+    'relbarbgcolor': 'red'
 } 
 
 html_context = {
