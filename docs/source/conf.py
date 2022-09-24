@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     "rightsidebar": "true",
-    "relbarbgcolor": "black"
+    "relbarbgcolor": "red"
 } 
 
 html_context = {
