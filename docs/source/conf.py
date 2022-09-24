@@ -32,7 +32,8 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
-    'style_nav_header_background': 'red',
+    'style_nav_header_background': 'black',
+    'logo_only': 'true',
 }
 
 html_context = {
