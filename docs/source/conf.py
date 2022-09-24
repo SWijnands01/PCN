@@ -33,6 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'style_nav_header_background': 'black',
+    'html_logo': 'logo.jpg',
     'logo_only': 'true',
 }
 
