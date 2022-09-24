@@ -1,6 +1,6 @@
 Observations
 
-.. figure:: docs/source/picture.JPG
+.. figure:: images/picture.JPG
    :scale: 50 %
    :alt: New Patient Form
 
