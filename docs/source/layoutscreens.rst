@@ -9,6 +9,6 @@ In this part of the manual, different screens from PCN are explained step-by-ste
 There are several screens that you might be interested in:
 
    - :doc:`ObservationScreen` 
-   - :doc:`PatientHistoryScreen` 
+   - :doc:`GeneralHistoryScreen` 
    
    
