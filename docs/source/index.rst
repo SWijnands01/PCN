@@ -16,16 +16,34 @@ Check out the following chapters for more information:
    - :doc:`commonerrors`
 
 
-Contents
---------
-
 
 .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: Layout Screens
 
-   General Exam <GeneralExamScreen>
    Clubfoot Exam <ClubfootExamScreen>
-   General History <GeneralHistoryScreen>
    Clubfoot History <ClubfootHistoryScreen>
+   General Exam <GeneralExamScreen>
+   General History <GeneralHistoryScreen>
+   Observations <ObservationScreen>
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Common errors
+   
+   Common errors <CommonErrors>
+   Frequently asked questions <FAQ>
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Demo's
+   
+   Demo's <Demos>
+   
+   
+
+   
+   
