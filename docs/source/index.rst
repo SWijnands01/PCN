@@ -41,7 +41,7 @@ Check out the following chapters for more information:
    :maxdepth: 1
    :caption: Demo's
    
-   Demo's <Demos>
+   Demo's <Demos> 
    
    
   
