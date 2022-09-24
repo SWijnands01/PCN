@@ -1,6 +1,6 @@
 Observations
 
-.. figure:: picture.png
+.. figure:: picture.jpg
    :scale: 50 %
    :alt: map to buried treasure
 
