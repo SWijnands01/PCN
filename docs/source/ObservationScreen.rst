@@ -10,8 +10,8 @@ Below there is an example of what the observations screen looks like:
 .. image:: images/Observations.JPG
    :scale: 80 %
 
-
-What are the options?
+--------
+What do you do?
 ---------
 
 If everything is ok, you can click on “All is well”. 
@@ -29,6 +29,7 @@ Otherwise, you have two options:
    
    .. image:: images/Observations_3.JPG
       :scale: 80 %
+   
    
    
    2. If the observation you want to add is not listed on the screen, you can click on “other problem” on the bottom right side of the screen. You can add notes in the screen that appears.
