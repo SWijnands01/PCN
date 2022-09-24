@@ -36,5 +36,11 @@ html_theme_options = {
     "relbarbgcolor": "black"
 } 
 
+html_context = {
+  'display_github': True,
+  'github_user': 'PCN',
+  'github_repo': 'user manual',
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
