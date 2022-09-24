@@ -8,10 +8,11 @@ General information
 In this part of the manual, different screens from PCN are explained step-by-step.
 There are several screens that you might be interested in:
 
-   - :doc:`screens/ObservationScreen` 
-   - :doc:`screens/PatientHistoryScreen` 
+   - :doc:`ObservationScreen` 
+   - :doc:`PatientHistoryScreen` 
    
    
+
 Contents
 --------
 
