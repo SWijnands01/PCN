@@ -8,6 +8,7 @@ To go to PCN, use the following link: https://pcnred.herokuapp.com/
 Check out the following chapters for more information:
    - :doc:`layoutscreens` 
    
+      - :doc:`AddNewPatient`
       - :doc:`GeneralExamScreen`
       - :doc:`ClubfootExamScreen`
       - :doc:`GeneralHistoryScreen`
@@ -16,12 +17,12 @@ Check out the following chapters for more information:
    - :doc:`commonerrors`
 
 
-
 .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: Layout Screens
 
+   Add a new patient <AddNewPatient>
    Clubfoot Exam <ClubfootExamScreen>
    Clubfoot History <ClubfootHistoryScreen>
    General Exam <GeneralExamScreen>
