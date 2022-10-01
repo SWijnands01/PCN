@@ -33,7 +33,9 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
 
 html_theme_options = {
-    'style_nav_header_background': 'black',
+    'style_nav_header_background': '#DC3545',
+    'sidebarbgcolor': '#DC3545',
+    'sidebartextcolor': 'white',
     #Toc options
     'sticky_navigation': True,
  }
