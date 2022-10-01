@@ -36,6 +36,11 @@ html_theme_options = {
     'style_nav_header_background': '#DC3545',
     'sidebarbgcolor': '#DC3545',
     'sidebartextcolor': 'white',
+    'collapse_navigation': True,
+    'light_css_variables': {
+        'color-brand-primary': '#DC3545',
+        'color-brand-content': 'black',
+    }
     #Toc options
     'sticky_navigation': True,
  }
