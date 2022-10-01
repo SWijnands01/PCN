@@ -3,3 +3,12 @@
   border-color: #DC3545;
 }
 
+/* navigation */
+.wy-side-nav-search {
+  padding-top: 170px;
+  background-image: url("/images/Logo.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-color: #DC3545;
+}
+
