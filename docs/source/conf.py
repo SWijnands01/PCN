@@ -32,9 +32,11 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
 
-# html_theme_options = {
-#    'style_nav_header_background': 'black',
-# }
+html_theme_options = {
+    'style_nav_header_background': 'black',
+    #Toc options
+    'sticky_navigation': True,
+ }
 
 html_context = {
   'display_github': True,
