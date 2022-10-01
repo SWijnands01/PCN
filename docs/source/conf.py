@@ -50,5 +50,9 @@ html_context = {
   'github_repo': 'user manual',
 }
 
+html_css_files = [
+    'css/custom.css',
+]
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote' 
