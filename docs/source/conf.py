@@ -33,9 +33,9 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
 
 html_theme_options = {
-    "light_css_variables": {
-        "color-brand-primary": "#DC3545",
-        "color-brand-content": "#DC3545",
+    'light_css_variables': {
+        'color-brand-primary': '#DC3545',
+        'color-brand-content': '#DC3545',
     },
     'style_nav_header_background': '#DC3545',
     'sidebarbgcolor': '#DC3545',
