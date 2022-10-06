@@ -28,4 +28,5 @@ You need to fill in the the personal information. The most important fields are:
 .. image:: images/AddNewPatient_1.JPG
    :scale: 80 %
    
+   
 When you finished and are satisfied with the answers, you can click on the “Save” button. 
