@@ -14,6 +14,9 @@ Check out the following chapters for more information:
       - :doc:`GeneralExamScreen`
       - :doc:`ClubfootExamScreen`
       - :doc:`ObservationScreen`
+      - :doc:`ScoringScreen`
+      - :doc:`TreatmentScreen`
+      
       
       
    - :doc:`commonerrors`
@@ -24,6 +27,7 @@ Check out the following chapters for more information:
    :maxdepth: 1
    :caption: Layout Screens
 
+Layout Screens <layoutscreens>   
    Login <LogInScreen>
    Add a new patient <AddNewPatient>
    General History <GeneralHistoryScreen>
@@ -31,6 +35,9 @@ Check out the following chapters for more information:
    General Exam <GeneralExamScreen>
    Clubfoot Exam <ClubfootExamScreen>
    Observations <ObservationScreen>
+   Scoring <ScoringScreen>
+   Treatment <TreatmentScreen>
+   
    
 .. toctree::
    :hidden:
