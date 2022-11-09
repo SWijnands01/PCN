@@ -16,6 +16,9 @@ What do you do?
   
   - In addition, you need to fill in the passive ankle dorsiflexion at the bottom of the screen. 
   
+  .. image:: images/Scores_1.JPG
+   :scale: 80 %
+  
   - Click on “Save” when you are done.
   
   
