@@ -15,6 +15,8 @@ What do you do?
 ---------
 
 If everything is ok, you can click on “All is well”. 
+*Remember to click on an observation. If you do not click at least “All is well”, the Save button does not work and the app stops.*
+
 
 .. image:: images/Observations_1.JPG
    :scale: 80 %

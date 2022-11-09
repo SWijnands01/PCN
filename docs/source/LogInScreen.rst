@@ -23,4 +23,5 @@ What do you do?
 .. image:: images/LogIn_2.JPG
    :scale: 80 %
 
-3. Now you can click on the “Save” button. You are redirected to the homepage of PCN.
+
+
