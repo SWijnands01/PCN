@@ -19,7 +19,9 @@ Check out the following chapters for more information:
       
       
       
-   - :doc:`commonerrors`
+   - :doc:`CommonErrors`
+   
+   - :doc:`FAQ`
 
 
 .. toctree::
