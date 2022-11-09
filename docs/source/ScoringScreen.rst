@@ -21,12 +21,9 @@ What do you do?
   
   - Click on “Save” when you are done.
   
-  
-  
-----   
-Notes
-----
+  ----
 
-This screen will only show up if this patient has an idiopathic clubfoot. This screen will not show up if the diagnosis is syndromic, complex or postsurgical.
+*Sidenotes:*
+   - *This screen will only show up if this patient has an idiopathic clubfoot. This screen will not show up if the diagnosis is syndromic, complex or postsurgical.*
 
   
