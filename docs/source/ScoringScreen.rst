@@ -15,6 +15,8 @@ What do you do?
   - Fill in the scoring by clicking on the right value/picture for each item. 
   
   - In addition, you need to fill in the passive ankle dorsiflexion at the bottom of the screen. 
+      - *Sidenote: Ankle dorsiflexion is a positive value, and ankle plantarflexion (equinus) is a negative value.*
+
   
   .. image:: images/Scores_1.JPG
    :scale: 80 %
