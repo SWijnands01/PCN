@@ -16,6 +16,10 @@ If you want to see the summary of the visit. Click on "Visit summary", and the s
   
 .. image:: images/ChooseTreatment_VisitSummary.JPG
    :scale: 80 %
+
+
+*Sidenote: You can manually adapt these scores (if you think you entered the wrong data) by clicking on the “Edit” button. You will be taken back to the scoring screen where you can edit the scores.*
+   
    
    
 Beneath the visit summary, you can see the recommended treatment. If you want to change the treatment, you can manually do so by clicking the arrow on the right. A drop-down menu opens with all the possible treatments listed. The recommended treatment by PCN has an asterisk next to it (sometimes there are more treatments that are recommended, but by default PCN shows the most recommended treatment). If you change the treatment manually, you will **always** have to give a reason (this field will pop-up).    
