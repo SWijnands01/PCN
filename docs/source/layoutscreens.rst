@@ -34,13 +34,22 @@ Overview of the screens
 In this part of the manual, different screens from PCN are explained step-by-step.
 There are several screens that you might be interested in:
 
-      - :doc:`LogInScreen`
-      - :doc:`AddNewPatient`
-      - :doc:`GeneralHistoryScreen`
-      - :doc:`ClubfootHistoryScreen`
-      - :doc:`GeneralExamScreen`
-      - :doc:`ClubfootExamScreen`
-      - :doc:`ObservationScreen`
+     - Different types of activity screens
+
+           - :doc:`LogInScreen`
+           - :doc:`AddNewPatient`
+           - :doc:`GeneralHistoryScreen`
+           - :doc:`ClubfootHistoryScreen`
+           - :doc:`GeneralExamScreen`
+           - :doc:`ClubfootExamScreen`
+           - :doc:`ObservationScreen`
+           - :doc:`ScoringScreen`
+           - :doc:`TreatmentScreen`
+           - :doc:`ActionScreen`
    
+   - Different types of summary screens
+   
+          - :doc:`PatientRecord`
+          - :doc:`EndOfVisit`
    
    
