@@ -54,8 +54,6 @@ The item 'Lateral Cuneiform Ossified Nucleus': By default, this item is marked a
 
 *Sidenotes:*
    - *The screens shows if you are filling in information for the right or the left foot, by underlining and coloring the right or left in green. If you want to switch back to the other foot, you can manually click on the “right” or “left” button.*
-   - *You  must fill in the **original diagnosis** *, even if this is not the same as the status right now (this is especially important when filling in data retrospectively). This also holds true for the recurrent count (you need to fill in the recurrence count at the time of the patients first visit). It is important for the algorithm and future decisions for treatment that the right information is filled in*
-
-
+   - **You  must fill in the original diagnosis, because you are in the clubfoot history screen,** even if this is not the same as the status right now (this is especially important when filling in data retrospectively). This also holds true for the recurrent count (you need to fill in the recurrence count at the time of the patients first visit). It is important for the    algorithm and future decisions for treatment that the right information is filled in*
 
 
