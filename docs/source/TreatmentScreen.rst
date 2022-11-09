@@ -15,7 +15,7 @@ What do you do?
 If you want to see the summary of the visit. Click on "Visit summary", and the summary will expand.
   
 .. image:: images/ChooseTreatment_VisitSummary.JPG
-   :scale: 80 %
+   :scale: 80 % 
 
 
 *Sidenote: You can manually adapt these scores (if you think you entered the wrong data) by clicking on the “Edit” button. You will be taken back to the scoring screen where you can edit the scores.*
