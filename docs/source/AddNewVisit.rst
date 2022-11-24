@@ -2,7 +2,7 @@
 Set Next Visit
 #######
 
-This is the last activity screen that you see before closing the current visit of the patient. In this screen, you can set the visit for the patient. Below you can find an example of what the screen looks like:
+This is the last activity screen that is part of the current visit of the patient. In this screen, you can set the visit for the patient. Below you can find an example of what the screen looks like:
 
 
 .. image:: images/AddNewVisit.JPG
