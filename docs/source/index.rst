@@ -17,6 +17,7 @@ Check out the following chapters for more information:
       - :doc:`ScoringScreen`
       - :doc:`TreatmentScreen`
       - :doc:`ActionScreen`
+      - :doc:`AddNewVisit`
       
      
       
@@ -40,6 +41,7 @@ Check out the following chapters for more information:
    Scoring <ScoringScreen>
    Treatment <TreatmentScreen>
    Action <ActionScreen>
+   Next Visit <AddNewVisit>
    
    
 .. toctree::
