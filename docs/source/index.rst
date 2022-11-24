@@ -32,7 +32,7 @@ Check out the following chapters for more information:
    :maxdepth: 2
    :caption: Layout Screens
 
-   General information <LayoutScreens>
+   General information <layoutscreens>
    Login <LogInScreen>
    Add a new patient <AddNewPatient>
    General History <GeneralHistoryScreen>
