@@ -41,7 +41,7 @@ html_theme_options = {
     'sidebarbgcolor': '#DC3545',
     'sidebartextcolor': 'white',
     #Toc options
-    'collapse_navigation': True,
+    'titles_only': True,
     'sticky_navigation': True,
  }
 
