@@ -18,6 +18,7 @@ Check out the following chapters for more information:
       - :doc:`TreatmentScreen`
       - :doc:`ActionScreen`
       - :doc:`AddNewVisit`
+      - :doc:`EndOfVisit`
       
      
       
@@ -42,6 +43,7 @@ Check out the following chapters for more information:
    Treatment <TreatmentScreen>
    Action <ActionScreen>
    Next Visit <AddNewVisit>
+   Visit Summary <EndOfVisit>
    
    
 .. toctree::
