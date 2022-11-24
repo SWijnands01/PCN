@@ -16,7 +16,7 @@ In this screen a short summary of all the information of the current visit is sh
 
 On top, there is information about the etiology.
       
-      *Note: This is based on the information from the :doc:`ClubfootHistoryScreen` *
+      *Note: This is based on the information from the :doc:`ClubfootHistoryScreen` .*
 
 
 .. image:: images/EndOfVisit_1.JPG
@@ -25,7 +25,7 @@ On top, there is information about the etiology.
    
 Below, there is information about the phase of treatment.
       
-      *Note: This is based on the information from the treatment screen.* 
+      *Note: This is based on the information from the :doc:`TreatmentScreen` .* 
 
 
 .. image:: images/EndOfVisit_3.JPG
@@ -34,7 +34,7 @@ Below, there is information about the phase of treatment.
    
 Below, there is information about the treatment 
 
-      *Note: This is based on the information from the treatment screen.*
+      *Note: This is based on the information from the :doc:`TreatmentScreen` .*
 
 .. image:: images/EndOfVisit_4.JPG
    :scale: 80 %
@@ -42,14 +42,14 @@ Below, there is information about the treatment
    
 Below, there is information about the scoring 
 
-      *Note: This is based on the information from the scoring screen.*
+      *Note: This is based on the information from the :doc:`ScoringScreen` .*
 
 
 .. image:: images/EndOfVisit_5.JPG
    :scale: 80 %   
    
    
-If you want to change the scores, you can click on the blue "edit" button on the right side. You are then directly linked to the Scoring screen, where you can alter the scores that you filled in. 
+If you want to change the scores, you can click on the blue "edit" button on the right side. You are then directly linked to the :doc:`ScoringScreen` , where you can alter the scores that you filled in. 
       
       
 .. image:: images/EndOfVisit_6.JPG
@@ -58,14 +58,14 @@ If you want to change the scores, you can click on the blue "edit" button on the
    
 Below, there is information about the observations during the visit.
 
-      *Note: This is based on the information from the observations screen.*
+      *Note: This is based on the information from the :doc:`ObservationScreen` .*
 
 
 .. image:: images/EndOfVisit_7.JPG
    :scale: 80 %
    
    
-If you want to change the observations, you can click on the blue "edit" button on the right side. You are then directly linked to the Observations screen, where you can alter the observations that you filled in, or add new observations. 
+If you want to change the observations, you can click on the blue "edit" button on the right side. You are then directly linked to the :doc:`ObservationScreen` , where you can alter the observations that you filled in, or add new observations. 
       
       
 .. image:: images/EndOfVisit_8.JPG
