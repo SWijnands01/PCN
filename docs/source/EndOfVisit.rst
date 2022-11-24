@@ -16,7 +16,7 @@ In this screen a short summary of all the information of the current visit is sh
 
 On top, there is information about the etiology.
       
-      *Note: This is based on the information from the clubfoot history screen.*
+      *Note: This is based on the information from the :doc:`ClubfootHistoryScreen` *
 
 
 .. image:: images/EndOfVisit_1.JPG
@@ -25,7 +25,7 @@ On top, there is information about the etiology.
    
 Below, there is information about the phase of treatment.
       
-      *Note: This is based on the information from the treatment screen.*
+      *Note: This is based on the information from the treatment screen.* 
 
 
 .. image:: images/EndOfVisit_3.JPG
