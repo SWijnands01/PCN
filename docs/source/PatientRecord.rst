@@ -14,7 +14,6 @@ What do you see?
 
 In this screen a short summary of all the information of the current visit is shown.
 
-
 On top, there is some general information about the patient. On top the name and patient ID are shown, and then some information regarding the age, sex, amount of visits and the date of last visit. 
 
 
@@ -22,17 +21,18 @@ On top, there is some general information about the patient. On top the name and
    :scale: 80 %
    
    
-Below, there is information about the general history. 
+   
+Below that, there is information about the general history. 
 
 
 .. image:: images/PatientRecord_2.JPG
    :scale: 80 %
 
 
-    * Note: This is stored in a drop down menu, so if you click on "General History", the information becomes visible. 
+*  *Note: This is stored in a drop down menu, so if you click on "General History", the information becomes visible.*
     
     
-    .. image:: images/PatientRecord_3.JPG
+.. image:: images/PatientRecord_3.JPG
    :scale: 80 %
    
    
@@ -43,10 +43,10 @@ Below, there is information about the examination of the clubfoot.
    :scale: 80 %
 
 
-       * Note: This is also stored in a drop down menu, so if you click on "Clubfoot Examination", the information becomes visible. 
+*  *Note: This is also stored in a drop down menu, so if you click on "Clubfoot Examination", the information becomes visible.* 
     
     
-    .. image:: images/PatientRecord_5.JPG
+.. image:: images/PatientRecord_5.JPG
    :scale: 80 %
    
    
@@ -54,7 +54,7 @@ Below, there is some information about the etiology and general history of the p
    
    
 .. image:: images/PatientRecord_6.JPG
-:scale: 80 %
+   :scale: 80 %
 
 
 Below, there is information about the clubfoot history. 
@@ -64,7 +64,7 @@ Below, there is information about the clubfoot history.
    :scale: 80 %
 
 
-    * Note: This is stored in a drop down menu, so if you click on "Clubfoot History", the information becomes visible. 
+*  *Note: This is stored in a drop down menu, so if you click on "Clubfoot History", the information becomes visible.* 
     
     
 .. image:: images/PatientRecord_16.JPG
@@ -78,7 +78,7 @@ Below, there is some more information about the clubfoot examination.
    :scale: 80 %
 
 
-    * Note: This is stored in a drop down menu, so if you click on "Clubfoot Examination", the information becomes visible. 
+*  *Note: This is stored in a drop down menu, so if you click on "Clubfoot Examination", the information becomes visible.* 
     
     
 .. image:: images/PatientRecord_17.JPG
@@ -92,24 +92,24 @@ Below, there is some specific information about the previous visits.
    :scale: 80 %   
    
    
-  All the different visits are included. If you want to see specific information for a visit, you can click on the visit, and the information of this specific visit will become visible. 
+All the different visits are included. If you want to see specific information for a visit, you can click on the visit, and the information of this specific visit will become visible. 
 
 
 .. image:: images/PatientRecord_18.JPG
    :scale: 80 %   
 
 
-  If there is still an active visit, you can see this because there is an red box with "Active" next to the visit. 
+*  If there is still an active visit, you can see this because there is an red box with "Active" next to the visit. 
   
   
-  .. image:: images/PatientRecord_12.JPG
+.. image:: images/PatientRecord_12.JPG
    :scale: 80 %   
   
   
-  If you want to resume this visit. You can click on "Resume Visit" button, which is above the Visit history overview. 
+*   If you want to resume this visit. You can click on "Resume Visit" button, which is above the Visit history overview. 
   
   
-  .. image:: images/PatientRecord_10.JPG
+.. image:: images/PatientRecord_10.JPG
    :scale: 80 %   
 
    
@@ -127,14 +127,14 @@ There are graphs for both feet, so if you want to see the graph of the other sid
    :scale: 80 %  
 
 
-  There are two different graphs that are shown. The top graphs shows the Pirani scores. The red line depicts the hindfoot scores, and the blue line depicts the midfoot scores. 
+*  There are two different graphs that are shown. The top graphs shows the Pirani scores. The red line depicts the hindfoot scores, and the blue line depicts the midfoot scores. 
 
 
 .. image:: images/PatientRecord_14.JPG
    :scale: 80 %  
 
 
-  The bottom graph shows the angles. In red, the passive ankle dorsiflexion is shown, and in blue the passive subtalar abduction is shown. 
+*  The bottom graph shows the angles. In red, the passive ankle dorsiflexion is shown, and in blue the passive subtalar abduction is shown. 
 
 
 .. image:: images/PatientRecord_15.JPG
