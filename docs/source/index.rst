@@ -16,6 +16,7 @@ Check out the following chapters for more information:
       - :doc:`ObservationScreen`
       - :doc:`ScoringScreen`
       - :doc:`TreatmentScreen`
+      - :doc:`ActionScreen`
       
       
       
@@ -38,6 +39,7 @@ Check out the following chapters for more information:
    Observations <ObservationScreen>
    Scoring <ScoringScreen>
    Treatment <TreatmentScreen>
+   Action <ActionScreen>
    
    
 .. toctree::
