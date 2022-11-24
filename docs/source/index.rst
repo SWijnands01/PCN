@@ -29,21 +29,22 @@ Check out the following chapters for more information:
 
 .. toctree::
    :hidden:
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Layout Screens
 
-   Login <LogInScreen>
-   Add a new patient <AddNewPatient>
-   General History <GeneralHistoryScreen>
-   Clubfoot History <ClubfootHistoryScreen>
-   General Exam <GeneralExamScreen>
-   Clubfoot Exam <ClubfootExamScreen>
-   Observations <ObservationScreen>
-   Scoring <ScoringScreen>
-   Treatment <TreatmentScreen>
-   Action <ActionScreen>
-   Next Visit <AddNewVisit>
-   Visit Summary <EndOfVisit>
+   General information <LayoutScreens>
+      Login <LogInScreen>
+      Add a new patient <AddNewPatient>
+      General History <GeneralHistoryScreen>
+      Clubfoot History <ClubfootHistoryScreen>
+      General Exam <GeneralExamScreen>
+      Clubfoot Exam <ClubfootExamScreen>
+      Observations <ObservationScreen>
+      Scoring <ScoringScreen>
+      Treatment <TreatmentScreen>
+      Action <ActionScreen>
+      Next Visit <AddNewVisit>
+      Visit Summary <EndOfVisit>
    
    
 .. toctree::
