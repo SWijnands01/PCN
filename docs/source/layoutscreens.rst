@@ -46,6 +46,7 @@ There are several screens that you might be interested in:
            - :doc:`ScoringScreen`
            - :doc:`TreatmentScreen`
            - :doc:`ActionScreen`
+           - :doc:`AddNewVisit`
    
    - Different types of summary screens
    
