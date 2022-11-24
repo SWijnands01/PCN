@@ -18,6 +18,7 @@ Check out the following chapters for more information:
       - :doc:`TreatmentScreen`
       - :doc:`ActionScreen`
       - :doc:`AddNewVisit`
+      - :doc:`PatientRecord`
       - :doc:`EndOfVisit`
       
      
@@ -32,7 +33,7 @@ Check out the following chapters for more information:
    :maxdepth: 2
    :caption: Layout Screens
 
-   LAYOUT SCREENS <layoutscreens>
+   About the screens <layoutscreens>
       Login <LogInScreen>
       Add a new patient <AddNewPatient>
       General History <GeneralHistoryScreen>
@@ -44,6 +45,7 @@ Check out the following chapters for more information:
       Treatment <TreatmentScreen>
       Action <ActionScreen>
       Next Visit <AddNewVisit>
+      Patient Record <PatientRecord>
       Visit Summary <EndOfVisit>
    
    
