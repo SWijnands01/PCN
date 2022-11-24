@@ -18,7 +18,7 @@ Check out the following chapters for more information:
       - :doc:`TreatmentScreen`
       - :doc:`ActionScreen`
       
-      
+     
       
    - :doc:`CommonErrors`
    
