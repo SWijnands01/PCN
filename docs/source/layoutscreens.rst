@@ -1,32 +1,44 @@
-Layout screens
+Screens
 =====
 
 .. _layoutscreens:
 
-General information
+Screen types
 ------------
-In this part of the manual, different screens from PCN are explained step-by-step. First of all, it is important to understand how the screens in PCN are build up. There are two types of screens included in PCN:
+PCN is composed of several screens that fall into two broad categories:
 
       **- Summary screens**
-          This type of screen gives a summary of previously filled in data. You do not have to fill in anything or undertake any action for this type of screen. An                 example of a summary screen can be seen below:
+          These screens present the data that has been already entered and do not require any data entry by the user. :doc:`PatientRecord` and :doc:`EndOfVisit` are             two examples of Summary screens. An example of a summary screen can be seen below:
           
           .. image:: images/ChooseTreatment_VisitSummary.JPG
              :scale: 80 %
              
           
       **- Activity screens**
-          This type of screen, you need to enter information or perform a certain action. There are several types of activity screens:
-            - An activity screen with one attribute: this is a more general screen. You will only need to fill in information of the patient in general. It is **not**               specific for a foot. Below you can find an example of such a screen:
+          These screens allow the user to enter data and record actions taken. These screens also provide necessary instructions to the user. Examples of such screens           are :doc:`ScoringScreen`, :doc:`TreatmentScreen` and :doc:`ActionScreen`. Below you can find an example of such a screen:
             
             .. image:: images/GeneralExam.JPG
              :scale: 80 %
             
+            Since clubfoot can affect one or both the feet, PCN screens can be classified in another manner into:
             
-            - An activity screen with two attributes: in this type of screen, you need to switch between the left foot and the right foot. You will get a screen in                   which you need to fill in information for one side, and then you continue to the other side, where you need to fill in the information as well before                   saving the information. Below you can find an example of such a screen:
+            1. Screens which do not depend on the foot (i.e. left or right)
+            Such screens do not have tabs (Right/Left). :doc:`GeneralExamScreen` and :doc:`AddNewVisit` screens are examples of such screens.
+            
+            2. Screens where the foot (i.e. left or right) matter
+            Such screens have one or two tabs labelled Right and Left which can be used to switch to the appropriate foot. In unilateral clubfoot case many of such                 screens have only one tab. Many of such screens will have Continue to Left Foot Button instead of the Save button on loading. Whenever such a button shows             up, it is mandatory for the user to press it once before the Save button becomes active. Pressing the Continue to Left Foot changes the view from the Right             to the Left foot for that screen. Examples of such screens are :doc:`TreatmentScreen` and :doc:`EndOfVisit`. Below you can find an example of such a screen:
             
             .. image:: images/ClubfootHistory_1.JPG
              :scale: 80 %
 
+Fields
+----------
+Activity/Data Entry screens are composed of fields that allow data entry/editing. Fields can be classified based on following criteria
+
+1. Mandatory vs Optional
+2. Data Type
+3. Free Text vs multiple choice
+4. Structured vs unstructured
 
 
 Overview of the screens
