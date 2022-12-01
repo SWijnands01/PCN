@@ -31,7 +31,7 @@ Check out the following chapters for more information:
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Layout Screens
+   :caption: Screens
 
    About the screens <layoutscreens>
    - Login <LogInScreen>
