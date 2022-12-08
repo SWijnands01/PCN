@@ -38,7 +38,10 @@ The item 'previous clubfoot diagnosis'. Make sure you fill in the correct diagno
    :scale: 80 %
    
    
-The item 'recurrence count': Fill in how many times the patient had a recurrence, **including** this visit.
+The item 'recurrence count': Fill in how many times the patient had a recurrence, **including** this visit. This might be different for different situations, so therefore we provide two examples below:
+
+   1. When you see a patient that has already been to your clinic, and for which you have already filled in previous visits in PCN, PCN will automatically compute the recurrence count and **you do not have to change the recurrence count**. 
+   2. When you see a patient for the first time (e.g. when the patient went to another clinic for their previous visits and is referred to you) there is no information in PCN about the previous visits and **PCN cannot automatically compute the recurrence count**. This means that you have to fill in the recurrence count manually. If you have reason to suspect that there has been a relapse before (when the patient went to the other clinic), please include this in the recurrence count. If you have no evidence of a recurrence in the previous visits of the patients, then leave the recurrence count zero. 
   
   .. image:: images/ClubfootHistory_3.JPG
    :scale: 80 %  
@@ -53,7 +56,6 @@ The item 'Lateral Cuneiform Ossified Nucleus': By default, this item is marked a
 ----
 
 *Sidenotes:*
-   - *The screens shows if you are filling in information for the right or the left foot, by underlining and coloring the right or left in green. If you want to switch back to the other foot, you can manually click on the “right” or “left” button.*
    - **You  must fill in the original diagnosis, because you are in the clubfoot history screen,** even if this is not the same as the status right now (this is especially important when filling in data retrospectively). This also holds true for the recurrent count (you need to fill in the recurrence count at the time of the patients first visit). It is important for the    algorithm and future decisions for treatment that the right information is filled in*
 
 
