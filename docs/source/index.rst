@@ -13,6 +13,7 @@ Check out the following chapters for more information:
       - :doc:`ClubfootHistoryScreen`
       - :doc:`GeneralExamScreen`
       - :doc:`ClubfootExamScreen`
+      - :doc:`ConfirmDiagnosis`
       - :doc:`ObservationScreen`
       - :doc:`ScoringScreen`
       - :doc:`TreatmentScreen`
@@ -40,6 +41,7 @@ Check out the following chapters for more information:
    - Clubfoot History <ClubfootHistoryScreen>
    - General Exam <GeneralExamScreen>
    - Clubfoot Exam <ClubfootExamScreen>
+   - Confirm Diagnosis <ConfirmDiagnosis>
    - Observations <ObservationScreen>
    - Scoring <ScoringScreen>
    - Treatment <TreatmentScreen>
