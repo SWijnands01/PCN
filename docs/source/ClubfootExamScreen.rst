@@ -8,6 +8,7 @@ In this screen, you need to perform the clubfoot exam. This is done for both the
 .. image:: images/ClubfootExam.JPG
    :scale: 80 %
    
+   
    *Sidenote: Dropped toe sign = resting posture of the toes in plantarflexion and absent active dorsiflexion movement after plantar stimulation of the foot*
    
 ----   
