@@ -12,18 +12,25 @@ In this screen, you need to fill in personal information about the patient. Belo
 What do you do?
 ----
 
-You need to fill in the the personal information. The most important fields are: 
+You need to fill in the the personal information, there are five fields that are required to continue to the next screen.  These important fields are: 
+   
+   - **Patient name:**   
+   Make sure the patient name is filled in. If you do not want to fill in the actual name of the patient, you can also choose to fill in the patient id if you wish. 
+   
+   - **Sex:**   
+   Make sure the sex is filled in. This is a multiple choice question, so you can choose either one of the answers.  
    
    - **Date of birth:** 
-   Make sure the date of birth is filled in. You can do this by either filling in the date manually (mm/dd/yy), or clicking on the little calendar on the right side and clicking on the date of birth. 
+   Make sure the date of birth is filled in. You can do this by either filling in the date manually (depending on the format of your device, this is mm/dd/yy or dd/mm/yy), or clicking on the little calendar on the right side and clicking on the date of birth. 
    
    - **Patient id:**   
    This is a code for the patient, used by PCN. The code should be unique (meaning that there is no other patient in PCN stored under the same code), otherwise PCN will not accept it.  
       - Best practice: use the alphabet and numbers for your code, and avoid special characters or white spaces. 
       - For example: Your initials and a number (AA001)
-   
-   - **Doctor:** 
-   Make sure your own name is filled in. By default the name of the user who is logged in is shown. If you need to change this, click on the drop-down menu and select your own name. 
+      
+   - **Phone number:** 
+   Make sure you fill in at least one number in the phone number. 
+
 
 .. image:: images/AddNewPatient_1.JPG
    :scale: 80 %
