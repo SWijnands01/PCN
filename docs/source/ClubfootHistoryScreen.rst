@@ -25,12 +25,12 @@ What do you do?
 
 The item 'previous clubfoot diagnosis'. Make sure you fill in the correct diagnosis. 
 
-   - Idiopathic not walking
-   - Idiopathic walking
-   - Syndromic
-   - Post surgical
-   - Complex
-   - Atypical
+   - Idiopathic not walking = child with idiopathic clubfoot diagnosed before child started to walk.
+   - Idiopathic walking = child with idiopathic clubfoot diagnosed after child started to walk.
+   - Syndromic = clubfoot seen in a child with an identified syndrome or other congenital abnormalities.
+   - Post surgical = clubfoot that has been treated with joint invasive surgery such as Posterior/Posteromedial release.
+   - Complex = clubfoot with a complete transverse plantar crease that appeared after casting treatment started. Usually there is a history of a cast slip.
+   - Atypical = clubfoot with a complete transverse plantar crease that was present before any treatment started.
    - Not treatable by Ponseti method
    - Not a clubfoot
   
