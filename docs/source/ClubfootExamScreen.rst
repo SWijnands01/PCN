@@ -9,14 +9,16 @@ In this screen, you need to perform the clubfoot exam. This is done for both the
    :scale: 80 %
    
    
-   *Sidenote: Dropped toe sign = resting posture of the toes in plantarflexion and absent active dorsiflexion movement after plantar stimulation of the foot*
-   
+ 
 ----   
 What do you do?
 ----
 
    - You need to fill in the the questions (including the key indicators of clubfoot) and click on “Continue to Left foot”.
-   
+        - Sidenote #1: "Normal", select "yes" if the foot is completely normal, and select "no" if the foot is not completely normal
+        - Sidenote #2: Dropped toe sign = resting posture of the toes in plantarflexion and absent active dorsiflexion movement after plantar stimulation of the foot
+        
+  
    -	Now the screen for the left foot appears. Then perform the exam on the left foot and enter the data. When you finished and are satisfied with the answers, you can click on the “Save” button. 
 
 
