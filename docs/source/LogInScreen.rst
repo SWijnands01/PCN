@@ -12,7 +12,7 @@ This is the first screen that you see when you login in PCN. Below you can find 
 What do you do?
 ----
 
-1. You need to fill in your username and password to login. 
+1. You need to fill in your username and password to login (the username and password are case sensitive).
    
  
 .. image:: images/LogIn_1.JPG
