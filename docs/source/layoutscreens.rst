@@ -40,6 +40,10 @@ Activity/Data Entry screens are composed of fields that allow data entry/editing
 3. Free Text vs multiple choice
 4. Structured vs unstructured
 
+There are different types of buttons/fields that PCN uses to gather information. 
+     - Round buttons: a list of options where only one option can be selected
+     - Square buttons: a list of options where multiple options can be selected
+     - Drop-down menu: a list of options in a menu that unfolds when you click on it, where one option can be selected
 
 Overview of the screens
 -----------
