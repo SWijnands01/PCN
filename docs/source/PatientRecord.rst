@@ -2,7 +2,7 @@
 Patient Record
 #######
 
-This is the patient record. This screen shows up when you click on a patient. The screen contains information regarding previous visits, 
+This is the patient record. This screen shows up when you click on a patient. The screen contains information regarding previous visits. You can use this screen to confirm the previous details that were entered, and to start a new visit. 
 
 
 .. image:: images/PatientRecord.JPG
