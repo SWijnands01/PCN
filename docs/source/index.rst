@@ -9,6 +9,7 @@ Check out the following chapters for more information:
    
       - :doc:`LogInScreen`
       - :doc:`AddNewPatient`
+      - :doc:`PatientRecord`      
       - :doc:`GeneralHistoryScreen`
       - :doc:`ClubfootHistoryScreen`
       - :doc:`GeneralExamScreen`
@@ -19,7 +20,6 @@ Check out the following chapters for more information:
       - :doc:`TreatmentScreen`
       - :doc:`ActionScreen`
       - :doc:`AddNewVisit`
-      - :doc:`PatientRecord`
       - :doc:`EndOfVisit`
       
      
@@ -37,6 +37,7 @@ Check out the following chapters for more information:
    About the screens <layoutscreens>
    - Login <LogInScreen>
    - Add a new patient <AddNewPatient>
+   - Patient Record <PatientRecord>   
    - General History <GeneralHistoryScreen>
    - Clubfoot History <ClubfootHistoryScreen>
    - General Exam <GeneralExamScreen>
@@ -47,7 +48,6 @@ Check out the following chapters for more information:
    - Treatment <TreatmentScreen>
    - Action <ActionScreen>
    - Next Visit <AddNewVisit>
-   - Patient Record <PatientRecord>
    - Visit Summary <EndOfVisit>
    
    
