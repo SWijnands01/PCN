@@ -14,5 +14,3 @@ Insert video's
 
 
 .. video:: videos/Test.mp4
-   :scale: 80 %
-
