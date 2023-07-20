@@ -16,3 +16,10 @@ Insert video's
 .. video:: videos/Video_1.mp4
 
 
+
+
+
+.. raw:: html
+
+<video controls src="videos/Video_1.mp4"></video>
+
