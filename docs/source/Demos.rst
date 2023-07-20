@@ -8,18 +8,7 @@ Demonstration #1
 
 Insert video's
 
-<video>
-   <source src="Video_1.mp4" type="video/mp4">
-</video>
+. raw:: html
 
-
-.. video:: videos/Video_1.mp4
-
-
-
-
-
-.. raw:: html
-
-<video controls src="videos/Video_1.mp4"></video>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=PKB36IJufPo" frameborder="0" allowfullscreen></iframe>
 
