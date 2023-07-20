@@ -17,16 +17,19 @@ Insert video's
 
 
 
-Checkup 2
 
 .. raw:: html
 
-    <video controls src="PCN/docs/source/videos/Video_1.mp4"></video>
+    <video controls src="videos/Video_2.mp4"></video>
 
 
 
-Checkup 3
+New option
+
 
 .. raw:: html
 
-    <source src="videos/Video_1.mp4"></video>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
