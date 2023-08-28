@@ -68,5 +68,6 @@ There are several screens that you might be interested in:
    
           - :doc:`PatientRecord`
           - :doc:`EndOfVisit`
+          - :doc:`ReportScreen`
    
    
