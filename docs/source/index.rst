@@ -21,6 +21,7 @@ Check out the following chapters for more information:
       - :doc:`ActionScreen`
       - :doc:`AddNewVisit`
       - :doc:`EndOfVisit`
+      - :doc:`ReportScreen`
       
      
       
@@ -49,6 +50,7 @@ Check out the following chapters for more information:
    - Action <ActionScreen>
    - Next Visit <AddNewVisit>
    - Visit Summary <EndOfVisit>
+   - Reports <ReportScreen>
    
    
 .. toctree::
