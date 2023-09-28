@@ -29,7 +29,7 @@ How can you generate reports ?
 
 1. On the page itself, there are different categories: 
     a. Quality
-    b. Statistics
+    b. Statistics 
 
   
   
