@@ -16,11 +16,13 @@ When you log in, there is a menu on the top of the screen. In this menu, you can
    :scale: 80 %
 
 
+   
 After clicking, you will see a page that looks like this:
 
 
 .. image:: images/ReportScreen.JPG
    :scale: 80 %
+
 
 
 --------
