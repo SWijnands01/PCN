@@ -21,7 +21,7 @@ Check out the following chapters for more information:
       - :doc:`ActionScreen`
       - :doc:`AddNewVisit`
       - :doc:`EndOfVisit`
-      - :doc:`ReportScreen`      
+      - :doc:`Reports`      
      
       
    - :doc:`CommonErrors`
@@ -49,7 +49,7 @@ Check out the following chapters for more information:
    - Action <ActionScreen>
    - Next Visit <AddNewVisit>
    - Visit Summary <EndOfVisit>
-   - Report Screen <ReportScreen>   
+   - Reports <ReportScreen>   
    
 .. toctree::
    :hidden:
