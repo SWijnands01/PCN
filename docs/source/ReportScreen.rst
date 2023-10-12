@@ -12,16 +12,17 @@ How can you go to the reports page ?
 When you log in, there is a menu on the top of the screen. In this menu, you can select the 'Report' tab.
 
 
-.. image:: images/ReportScreen_home.JPG
-   :scale: 80 %
+
+   .. image:: images/ReportScreen_home.JPG
+      :scale: 80 %
 
 
    
 After clicking, you will see a page that looks like this:
 
 
-.. image:: images/ReportScreen.JPG
-   :scale: 80 %
+   .. image:: images/ReportScreen.JPG
+      :scale: 80 %
 
 ---------
 Different types of reports
@@ -65,12 +66,14 @@ b. Statistics
 1. You can choose one of the categories/subcategories and select it. After clicking the link, you will be redirected to the specific reports page. In this example, we took the 'Laterality' report. The page will look like this:
 
 
-.. image:: images/ReportScreen_ex_1.JPG
-:scale: 80 %
+
+   .. image:: images/ReportScreen_ex_1.JPG
+      :scale: 80 %
 
 
-.. image:: images/ReportScreen_ex_2.JPG
-:scale: 80 % 
+
+   .. image:: images/ReportScreen_ex_2.JPG
+      :scale: 80 % 
 
 
 
@@ -89,15 +92,15 @@ b. Statistics
 - Total patients per month: it only includes data of patients (sides are not shown). An example of what the graph looks like is shown below:
 
 
-.. image:: images/ReportScreen_ex_3.JPG
-:scale: 80 % 
+   .. image:: images/ReportScreen_ex_3.JPG
+      :scale: 80 % 
 
 
 - Patients per affected sides per month: the data is separated for the different sides. An example of what the graph looks like is shown below:
 
 
-.. image:: images/ReportScreen_ex_3.JPG
-:scale: 80 % 
+   .. image:: images/ReportScreen_ex_3.JPG
+      :scale: 80 % 
 
 
 6. Below the bar graph, a more elaborate table with specific information about the numbers shown in the graph is shown. 
