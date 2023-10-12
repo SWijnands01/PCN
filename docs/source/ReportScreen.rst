@@ -13,7 +13,7 @@ When you log in, there is a menu on the top of the screen. In this menu, you can
 
 
 
-   .. image:: images/ReportScreen_home.JPG
+   .. image:: images/ReportScreen_home.jpg
       :scale: 80 %
 
 
@@ -21,7 +21,7 @@ When you log in, there is a menu on the top of the screen. In this menu, you can
 After clicking, you will see a page that looks like this:
 
 
-   .. image:: images/ReportScreen.JPG
+   .. image:: images/ReportScreen.jpg
       :scale: 80 %
 
 
@@ -68,12 +68,12 @@ b. Statistics
 
 
 
-   .. image:: images/ReportScreen_ex_1.JPG
+   .. image:: images/ReportScreen_ex_1.jpg
       :scale: 80 %
 
 
 
-   .. image:: images/ReportScreen_ex_2.JPG
+   .. image:: images/ReportScreen_ex_2.jpg
       :scale: 80 % 
 
 
@@ -94,7 +94,7 @@ b. Statistics
 
 
 
-   .. image:: images/ReportScreen_ex_3.JPG
+   .. image:: images/ReportScreen_ex_3.jpg
       :scale: 80 % 
 
 
@@ -102,7 +102,7 @@ b. Statistics
 
 
 
-   .. image:: images/ReportScreen_ex_3.JPG
+   .. image:: images/ReportScreen_ex_3.jpg
       :scale: 80 % 
 
 
