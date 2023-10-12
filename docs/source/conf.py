@@ -30,7 +30,7 @@ templates_path = ['_templates']
     
 # -- Options for HTML output
 
-html_theme = 'furo'
+html_theme = 'sphinxdoc'
 html_logo = '../Logo.jpg'
 
 html_theme_options = {
