@@ -9,6 +9,8 @@ author = 'SWijnands'
 release = '0.1'
 version = '0.1.0'
 
+$ pip install sphinx-rtd-theme
+
 # -- General configuration
 
 extensions = [
@@ -17,6 +19,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_rtd_theme',
 ]
 
 intersphinx_mapping = {
@@ -30,7 +33,7 @@ templates_path = ['_templates']
     
 # -- Options for HTML output
 
-$ pip install sphinx-rtd-theme
+
 
 html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
