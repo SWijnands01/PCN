@@ -9,6 +9,11 @@ author = 'SWijnands'
 release = '0.1'
 version = '0.1.0'
 
+sphinx:
+  builder: html
+  configuration: conf.py
+  fail_on_warning: true
+
 # -- General configuration
 
 extensions = [
