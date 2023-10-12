@@ -24,6 +24,7 @@ After clicking, you will see a page that looks like this:
    .. image:: images/ReportScreen.JPG
       :scale: 80 %
 
+
 ---------
 Different types of reports
 ---------
@@ -92,11 +93,13 @@ b. Statistics
 - Total patients per month: it only includes data of patients (sides are not shown). An example of what the graph looks like is shown below:
 
 
+
    .. image:: images/ReportScreen_ex_3.JPG
       :scale: 80 % 
 
 
 - Patients per affected sides per month: the data is separated for the different sides. An example of what the graph looks like is shown below:
+
 
 
    .. image:: images/ReportScreen_ex_3.JPG
