@@ -31,8 +31,6 @@ templates_path = ['_templates']
     
 # -- Options for HTML output
 
-$ pip install sphinx-rtd-theme
-
 html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
 
