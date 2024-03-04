@@ -9,6 +9,8 @@ author = 'SWijnands'
 release = '0.1'
 version = '0.1.0'
 
+import sphinx_rtd_theme
+
 # -- General configuration
 
 extensions = [
@@ -30,7 +32,7 @@ templates_path = ['_templates']
     
 # -- Options for HTML output
 
-html_theme = 'classic'
+html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
 
 html_theme_options = {
