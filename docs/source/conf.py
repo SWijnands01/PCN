@@ -30,8 +30,10 @@ templates_path = ['_templates']
     
 # -- Options for HTML output
 
-html_theme = 'classic'
+html_theme = 'sphinx_rtd_theme'
 html_logo = '../Logo.jpg'
+
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 html_theme_options = {
     'light_css_variables': {
